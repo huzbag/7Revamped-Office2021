@@ -48,9 +48,14 @@ v0.7 adds a compiled welcome launcher, compiled readiness checks and clearer int
 
 ## Downloads
 
-**No public installer download is available here yet.** The current research package includes third-party components whose redistribution terms and notices still need review. This repository does not distribute Office or Windows installation media, activation tools, or the private source repository.
+- **[Download v0.7 ZIP](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.7/7Revamped-Office2021-v0.7.zip)** — extract before opening.
+- **[Download v0.7 ISO](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.7/7Revamped-Office2021-v0.7.iso)** — mount as a virtual DVD.
 
-See [ZIP and ISO package information](DOWNLOADS.md) for the format comparison, exact v0.7 package sizes and checksums. GitHub's **Code → Download ZIP** downloads these documents and screenshots, not an installer. The [installation walkthrough](INSTALLATION.md) describes the current workflow for people who already have an authorized research package.
+[Release notes and checksums](https://github.com/huzbag/7Revamped-Office2021/releases/tag/v0.7) · [Package guide](DOWNLOADS.md)
+
+Both archives contain the same 305 kit files. Supply your own matching Office image separately. The kit contains supporting scripts and bundled components; it does not include a complete Office or Windows installation image, activation tools or a product key. Compiled components and scripts remain inspectable.
+
+GitHub's **Code → Download ZIP** downloads repository documentation, not the prepared installer. Use the release links above, then follow the [installation walkthrough](INSTALLATION.md).
 
 ## Research milestones
 

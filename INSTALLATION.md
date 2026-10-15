@@ -1,6 +1,6 @@
 # Installation walkthrough
 
-This describes the current research workflow. It is not a public download offer; see the [download status](README.md#downloads).
+Download the prepared [v0.7 ZIP or ISO](DOWNLOADS.md), then follow the workflow below. See [tested results](TESTING.md) for validation and limitations.
 
 1. Start with Windows 7 SP1, administrator access, no existing Office installation and at least 8 GB free on the Windows drive. Back up the machine. For a VM, leave room on the host drive for disk growth.
 2. Extract the complete kit ZIP to a permanent local folder, or mount its ISO as a virtual DVD. Do not run the program inside the ZIP preview.

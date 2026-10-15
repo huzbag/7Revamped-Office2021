@@ -1,6 +1,8 @@
 # v0.7 packages
 
-**Public downloads are pending.** This page describes the existing research packages; it does not provide a public download link yet. The current packages include readable scripts and third-party binaries. Public packaging and dependency notices need review before a more limited distribution can be offered.
+**[Download ZIP](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.7/7Revamped-Office2021-v0.7.zip)** · **[Download ISO](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.7/7Revamped-Office2021-v0.7.iso)** · **[All release assets](https://github.com/huzbag/7Revamped-Office2021/releases/tag/v0.7)**
+
+These are the existing v0.7 research packages, published without changes to their contents. They include readable supporting scripts and third-party components. Public availability does not establish additional runtime validation or grant rights beyond the applicable terms of each component.
 
 ## ZIP or ISO?
 
@@ -33,4 +35,4 @@ The tested media is English Office Professional Plus 2021 Retail (`ProPlus2021Re
 
 ## About the repository ZIP
 
-GitHub **Code → Download ZIP** contains the public documentation and screenshot. It is not the prepared 305-file installer package. No installer download is concealed inside this repository.
+GitHub **Code → Download ZIP** contains the public documentation and screenshot. It is not the prepared 305-file installer package. Use the prepared release assets linked above for installation.

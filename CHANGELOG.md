@@ -27,3 +27,8 @@ Published the research documentation, installation walkthrough and test results 
 - Explained the distinction between basic application checks and broad compatibility.
 - Added ZIP/ISO format guidance, package sizes and SHA256 identifiers.
 - Summarized milestones without publishing source code, binary patch instructions or internal lab records.
+
+
+## Public v0.7 downloads — 16 October 2026
+
+Published the existing v0.7 ZIP and ISO without changing their bytes. Added both SHA256 files and the package verification report. Updated the download links and installation guide. No new compatibility results are implied by public availability.
