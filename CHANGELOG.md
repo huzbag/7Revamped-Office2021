@@ -19,3 +19,11 @@ v0.4 introduced earlier integration preparation for the observed streaming failu
 ## Research documentation — 16 October 2026
 
 Published the research documentation, installation walkthrough and test results for feedback. Installer downloads remain pending dependency review.
+
+
+## Documentation update — 16 October 2026
+
+- Added the exact Office product, build, language and architecture used in the lab.
+- Explained the distinction between basic application checks and broad compatibility.
+- Added ZIP/ISO format guidance, package sizes and SHA256 identifiers.
+- Summarized milestones without publishing source code, binary patch instructions or internal lab records.
