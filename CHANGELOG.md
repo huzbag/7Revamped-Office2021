@@ -16,6 +16,6 @@ Combined the Windows x86 and x64 paths into one guided package. Full installatio
 
 v0.4 introduced earlier integration preparation for the observed streaming failure. Separate R2 research established the x86 route. Earlier experiments covered Ultimate, Professional and Home Premium editions as listed in the test matrix.
 
-## Public showcase — 16 October 2026
+## Research documentation — 16 October 2026
 
-Published a separate documentation repository for sharing research and collecting feedback. No implementation source, private commit history or installer binaries are included in this showcase.
+Published the research documentation, installation walkthrough and test results for feedback. Installer downloads remain pending dependency review.

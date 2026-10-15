@@ -4,7 +4,7 @@
 
 I started with a practical question: could Word and Excel from Office 2021 run on Windows 7? The project grew into **7Revamped for Office 2021**, a guided installer for 32-bit and 64-bit Windows 7 SP1, with PowerPoint added along the way.
 
-My aim is to make the setup easier to follow and document what works, what fails, and what still needs testing. This repository is the public research showcase. Implementation source and internal lab records are maintained separately.
+My aim is to make the setup easier to follow and document what works, what fails, and what still needs testing. This repository documents the research, installation experience and tested results.
 
 ![7Revamped installer running on Windows 7](assets/installer-windows7.png)
 
@@ -27,7 +27,7 @@ v0.7 adds a compiled welcome launcher, compiled readiness checks and clearer int
 
 ## Downloads
 
-**No public installer download is available here yet.** The current research package includes third-party components whose redistribution terms and notices still need review. This showcase does not distribute Office or Windows installation media, activation tools, or the private source repository.
+**No public installer download is available here yet.** The current research package includes third-party components whose redistribution terms and notices still need review. This repository does not distribute Office or Windows installation media, activation tools, or the private source repository.
 
 GitHub's **Code → Download ZIP** downloads these documents and screenshots, not an installer. The [installation walkthrough](INSTALLATION.md) describes the current workflow for people who already have an authorized research package.
 
@@ -39,6 +39,6 @@ Normal Office licensing requirements still apply. The project does not activate 
 
 ## Share feedback
 
-Use [Issues](https://github.com/huzbag/7Revamped-showcase/issues) to share questions, ideas or a reproducible problem. Include Windows edition, SP1 status, 32/64-bit architecture, kit version, application and steps taken. Remove personal information from screenshots and logs; do not post product keys or passwords.
+Use [Issues](https://github.com/huzbag/7Revamped-Office2021/issues) to share questions, ideas or a reproducible problem. Include Windows edition, SP1 status, 32/64-bit architecture, kit version, application and steps taken. Remove personal information from screenshots and logs; do not post product keys or passwords.
 
 Project direction and hands-on testing: **@Bwinex**. External compatibility work is credited in [CREDITS.md](CREDITS.md).
