@@ -1,5 +1,15 @@
 # Milestones
 
+## v0.8 preview — 17 October 2026
+
+- Added optional Publisher and Access selection alongside Word, Excel and PowerPoint.
+- Extended application choices and readiness checks for both Windows architectures.
+- Included the tested shutdown correction, with component verification and an original-file backup/rollback path.
+- Verified package contents and Windows 7 component checks on Ultimate SP1 x64 and Home Premium SP1 x86.
+- Published the unchanged candidate ZIP and ISO as a prerelease. Full fresh deployment and automatic rollback testing remain pending; v0.7 stays the current release.
+
+See [tested results](TESTING.md#v08-preview--17-october-2026) for the distinction between lab application checks and new-package validation.
+
 ## v0.7 — 15 October 2026
 
 - Added a compiled welcome launcher and compiled architecture, media, integrity and readiness checks.

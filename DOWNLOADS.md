@@ -1,4 +1,25 @@
-# v0.7 packages
+# Packages
+
+## v0.8 preview
+
+The preview adds optional Publisher and Access selection and the tested closing-crash correction. **Use a backed-up test system. Full fresh installation, automatic repair/rollback and restart validation of this package remain pending.** Existing v0.7 downloads stay available below.
+
+**[Download preview ZIP](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.8-preview.1/7Revamped-Office2021-v0.8-candidate.zip)** · **[Download preview ISO](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.8-preview.1/7Revamped-Office2021-v0.8-candidate.iso)** · **[Preview release notes](https://github.com/huzbag/7Revamped-Office2021/releases/tag/v0.8-preview.1)**
+
+| Format | Filename | Size |
+| --- | --- | --- |
+| ZIP | `7Revamped-Office2021-v0.8-candidate.zip` | 164,983,408 bytes |
+| ISO | `7Revamped-Office2021-v0.8-candidate.iso` | 294,467,584 bytes |
+
+Both contain the same 307 files. The `candidate` filename identifies the preview; it has not been renamed or rebuilt for publication. File hashes and archive readback passed. These checks verify packaging, not a complete Office deployment.
+
+Preview ZIP SHA256: `130dcdea782bad76e75d1cfe6727f8998fa45b4f9ffaeca7f61af4c302a00d8d`
+
+Preview ISO SHA256: `b34e185bcae4f4736fc511be291c886535236b1ca442b019e037bab1af8fa777`
+
+The release includes both checksum files and verification reports. See [preview validation](TESTING.md#v08-preview--17-october-2026). The packages include readable supporting scripts and bundled components; they are not a way to conceal every implementation detail.
+
+## v0.7 packages
 
 **[Download ZIP](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.7/7Revamped-Office2021-v0.7.zip)** · **[Download ISO](https://github.com/huzbag/7Revamped-Office2021/releases/download/v0.7/7Revamped-Office2021-v0.7.iso)** · **[All release assets](https://github.com/huzbag/7Revamped-Office2021/releases/tag/v0.7)**
 
@@ -35,4 +56,4 @@ The tested media is English Office Professional Plus 2021 Retail (`ProPlus2021Re
 
 ## About the repository ZIP
 
-GitHub **Code → Download ZIP** contains the public documentation and screenshot. It is not the prepared 305-file installer package. Use the prepared release assets linked above for installation.
+GitHub **Code → Download ZIP** contains the public documentation and screenshot. It is not a prepared installer package. Use the prepared release assets linked above for installation.
